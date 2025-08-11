@@ -7,6 +7,7 @@ public class Load {
 		System.out.println("Load");
 		System.out.println("Switched to Master");
 		System.out.println("Switched to Master");
+		System.out.println("Switched to One");
 	}
 
 }
