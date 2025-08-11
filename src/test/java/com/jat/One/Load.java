@@ -6,6 +6,7 @@ public class Load {
 		// TODO Auto-generated method stub
 		System.out.println("Load");
 		System.out.println("Switched to Master");
+		System.out.println("Switched to Master");
 	}
 
 }
